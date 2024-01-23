@@ -1,0 +1,4 @@
+### Greedy
+----------
+Greedy Algorithm
+
